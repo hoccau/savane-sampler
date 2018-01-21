@@ -1,0 +1,526 @@
+samples savaneNuit-sample-24 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-24 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-24 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-24 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-23 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-23 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-23 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-23 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-22 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-22 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-22 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-22 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-21 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-21 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-21 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-21 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-20 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-20 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-20 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-20 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-19 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-19 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-19 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-19 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-18 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-18 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-18 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-18 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-17 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-17 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-17 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-17 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-16 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-16 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-16 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-16 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-15 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-15 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-15 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-15 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-14 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-14 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-14 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-14 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-13 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-13 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-13 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneNuit-sample-13 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-12 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-12 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-12 path /home/hoccau/FLAVIEN/pool/intro/50_Sonette.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-12 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-11 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-11 volume 0.391304 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneNuit-sample-11 path /home/hoccau/FLAVIEN/pool/savaneNuit/40_Cri_Mec_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-11 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-10 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-10 volume 0.391304 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneNuit-sample-10 path /home/hoccau/FLAVIEN/pool/savaneNuit/40_Cri_Femme_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-10 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-9 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-9 volume 0.413043 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneNuit-sample-9 path /home/hoccau/FLAVIEN/pool/savaneNuit/20_Forêt_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-9 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-8 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-8 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-8 path /home/hoccau/FLAVIEN/pool/savaneNuit/17_Hyene_Foutage_Gueule.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-8 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-7 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-7 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-7 path /home/hoccau/FLAVIEN/pool/savaneNuit/16_Chacal.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-7 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-6 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-6 volume 1.08696 16 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0;
+samples savaneNuit-sample-6 path /home/hoccau/FLAVIEN/pool/savaneNuit/13_Lion_Rugissement_2.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-6 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-5 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-5 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-5 path /home/hoccau/FLAVIEN/pool/savaneNuit/12_Lion_Rugissement_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-5 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-4 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-4 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-4 path /home/hoccau/FLAVIEN/pool/savaneNuit/11_Lion_Mange.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-4 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-3 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-3 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneNuit-sample-3 path /home/hoccau/FLAVIEN/pool/savaneNuit/11_Lion_Appel.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-3 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-2 loop 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-2 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneNuit-sample-2 path /home/hoccau/FLAVIEN/pool/savaneNuit/10_Savane_Nuit_2.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-2 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-1 loop 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit-sample-1 volume 0.456522 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneNuit-sample-1 path /home/hoccau/FLAVIEN/pool/savaneNuit/10_Savane_Nuit.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneNuit-sample-1 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit midi_channel 3 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneNuit first_note 48 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-24 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-24 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-24 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-24 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-23 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-23 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-23 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-23 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-22 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-22 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-22 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-22 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-21 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-21 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-21 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-21 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-20 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-20 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-20 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-20 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-19 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-19 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-19 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-19 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-18 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-18 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-18 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-18 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-17 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-17 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-17 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-17 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-16 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-16 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-16 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-16 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-15 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-15 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-15 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-15 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-14 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-14 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-14 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-14 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-13 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-13 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-13 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-13 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-12 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-12 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-12 path /home/hoccau/FLAVIEN/pool/intro/50_Sonnerie_Tel.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-12 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-11 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-11 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-11 path /home/hoccau/FLAVIEN/pool/intro/50_Sonette.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-11 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-10 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-10 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples intro-sample-10 path /home/hoccau/FLAVIEN/pool/intro/10_equelazer.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-10 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-9 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-9 volume 1.32609 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples intro-sample-9 path /home/hoccau/FLAVIEN/pool/intro/09_Avalanche_Pierre.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-9 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-8 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-8 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-8 path /home/hoccau/FLAVIEN/pool/intro/08_Montagne_Lac_Loon.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-8 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-7 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-7 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-7 path /home/hoccau/FLAVIEN/pool/intro/06_Hélico_At_Dec.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-7 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-6 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-6 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples intro-sample-6 path /home/hoccau/FLAVIEN/pool/intro/05_Ville_Accordéon_Panam.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-6 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-5 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-5 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-5 path /home/hoccau/FLAVIEN/pool/intro/04_Désert_Egypte.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-5 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-4 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-4 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-4 path /home/hoccau/FLAVIEN/pool/intro/03_Ville_Klaxon_Panam.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-4 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-3 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-3 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
+samples intro-sample-3 path /home/hoccau/FLAVIEN/pool/intro/02_Création_Machine_TOP.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-3 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-2 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-2 volume 1.1087 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples intro-sample-2 path /home/hoccau/FLAVIEN/pool/intro/01_Machine_Ronflement.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-2 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-1 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro-sample-1 volume 0.543478 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples intro-sample-1 path /home/hoccau/FLAVIEN/pool/intro/00CarpenterBrutParadiseWarfare.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples intro-sample-1 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro midi_channel 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples intro first_note 48 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+samples savaneJour-sample-24 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-24 volume 0.934783 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-24 path /home/hoccau/FLAVIEN/pool/savaneJour/Vampires.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-24 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-23 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-23 volume 0.956522 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-23 path /home/hoccau/FLAVIEN/pool/savaneJour/TheComebackKid.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-23 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-22 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-22 volume 0.782609 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-22 path /home/hoccau/FLAVIEN/pool/savaneJour/Memories.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-22 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-21 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-21 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-21 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneJour-sample-21 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-20 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-20 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-20 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneJour-sample-20 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-19 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-19 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-19 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneJour-sample-19 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-18 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-18 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-18 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneJour-sample-18 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-17 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-17 volume 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-17 path _ 16 _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _;
+samples savaneJour-sample-17 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-16 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-16 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-16 path /home/hoccau/FLAVIEN/pool/savaneJour/The
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-16 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-15 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-15 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-15 path /home/hoccau/FLAVIEN/pool/savaneJour/The
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-15 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-14 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-14 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-14 path /home/hoccau/FLAVIEN/pool/savaneJour/The
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-14 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-13 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-13 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-13 path /home/hoccau/FLAVIEN/pool/savaneJour/30_Mort_Machine.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-13 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-12 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-12 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-12 path /home/hoccau/FLAVIEN/pool/savaneJour/30_Machine_Agonise.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-12 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-11 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-11 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0;
+samples savaneJour-sample-11 path /home/hoccau/FLAVIEN/pool/savaneJour/19_Vautours.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-11 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-10 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-10 volume 0.478261 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-10 path /home/hoccau/FLAVIEN/pool/savaneJour/18_Elephants_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-10 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-9 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-9 volume 0.434783 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-9 path /home/hoccau/FLAVIEN/pool/savaneJour/16_Chacal.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-9 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-8 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-8 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-8 path /home/hoccau/FLAVIEN/pool/savaneJour/15_Savane_Grenouilles.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-8 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-7 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-7 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-7 path /home/hoccau/FLAVIEN/pool/savaneJour/14_Singe_Pas_Content.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-7 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-6 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-6 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-6 path /home/hoccau/FLAVIEN/pool/savaneJour/13_Lion_Rugissement_2.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-6 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-5 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-5 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-5 path /home/hoccau/FLAVIEN/pool/savaneJour/12_Lion_Rugissement_1.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-5 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-4 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-4 volume 1.5 16 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0;
+samples savaneJour-sample-4 path /home/hoccau/FLAVIEN/pool/savaneJour/11_Lion_Mange.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-4 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-3 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-3 volume 0.913043 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-3 path /home/hoccau/FLAVIEN/pool/savaneJour/11_Lion_Appel.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-3 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-2 loop 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-2 volume 0.173913 16 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+samples savaneJour-sample-2 path /home/hoccau/FLAVIEN/pool/savaneJour/10_Savane1_Cool.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-2 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-1 loop 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour-sample-1 volume 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0;
+samples savaneJour-sample-1 path /home/hoccau/FLAVIEN/pool/savaneJour/01zik.wav
+16 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _;
+samples savaneJour-sample-1 note 0 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour midi_channel 2 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0;
+samples savaneJour first_note 48 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+;
